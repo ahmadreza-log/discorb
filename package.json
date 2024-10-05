@@ -1,0 +1,26 @@
+{
+  "name": "discorb",
+  "version": "1.0.0",
+  "description": "Discord bot creation library, designed with Discord.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadreza-log/discorb.git"
+  },
+  "keywords": [
+    "discord",
+    "discord.js",
+    "bot",
+    "discorb",
+    "framework"
+  ],
+  "author": "Ahmadreza Ebrahimi",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ahmadreza-log/discorb/issues"
+  },
+  "homepage": "https://github.com/ahmadreza-log/discorb#readme"
+}
